@@ -29,8 +29,6 @@ Host someinternalhost
         ProxyJump bastion
 ```
 
-
-
-bastion_IP = 84.201.172.12
+bastion_IP = 84.201.172.12  
 someinternalhost_IP = 10.130.0.28
 
