@@ -32,3 +32,5 @@ Host someinternalhost
 bastion_IP = 84.201.172.12  
 someinternalhost_IP = 10.130.0.28
 
+Для ssl:  
+В настройках сервера VPN указать Let's Encrypt Domain - 84.201.172.12.sslip.io  
